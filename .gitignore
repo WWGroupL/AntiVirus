@@ -360,3 +360,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+AntiVIrus/MalwareScanner/startup_scan_results.txt
+
+SampleMalware/Windows10Draft02.exe
